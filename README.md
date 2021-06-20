@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning AWS and Azure
 - 💞️ I’m looking to collaborate on projects related to DFIR
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/devkigaurav/)
-- 📻 Love listening radio in the backgroud. Connect to your favourite radio [here](radio.garden)
+- 📻 Love listening radio in the backgroud. Connect to your favourite radio [here](https://radio.garden)
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 <!---
